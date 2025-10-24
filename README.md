@@ -127,13 +127,6 @@ I'm a **Full-Stack Engineer** with expertise across **frontend, backend, e-comme
 ---
 
 
-### 🌎 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/codebughunter" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:codebughunter@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://hiroshi-dev-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white" /></a>
-</p>
-
 ---
 
 ⭐ *"From HTML to Web3, I build, automate, and innovate."*
