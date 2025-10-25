@@ -8,7 +8,7 @@ I'm a **Full-Stack Engineer** with expertise across **frontend, backend, e-comme
 - 🌐 **Frontend**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, TailwindCSS, Bootstrap  
 - 🛒 **Shopify**: Liquid, Shopify CLI, Custom Themes & Apps, Storefront API  
 - ⚛️ **Backend / Full Stack**: Node.js, Rust, Express.js, MongoDB, PostgreSQL, REST & GraphQL APIs  
-- 🧠 **AI & Automation**: Python, OpenAI GPT, LangChain, AI Agents, Web Scraping, Data Analysis  
+- 🧠 **AI & Automation**: Python, OpenAI GPT, LangChain, ML, Web Scraping, Data Analysis  
 💡 Passionate about building scalable web apps, automating workflows, and creating intelligent AI-powered tools.
 
 ---
