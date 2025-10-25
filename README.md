@@ -120,9 +120,7 @@ I'm a **Full-Stack Engineer** with expertise across **frontend, backend, e-comme
 
 ---
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebughunterio&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
