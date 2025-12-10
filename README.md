@@ -119,9 +119,3 @@ I'm a **Full-Stack Engineer** with expertise across **frontend, backend, e-comme
   *Tech:* FastAPI, PostgreSQL, Celery, Docker.  
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivantechfr&theme=radical&hide_border=true" />
-</p>
-
----
